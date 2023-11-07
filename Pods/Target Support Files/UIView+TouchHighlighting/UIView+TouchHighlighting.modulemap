@@ -1,0 +1,6 @@
+framework module UIView_TouchHighlighting {
+  umbrella header "UIView+TouchHighlighting-umbrella.h"
+
+  export *
+  module * { export * }
+}
